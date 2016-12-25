@@ -1,0 +1,9 @@
+Building Wozniak
+
+See doc/readme-qt.rst for instructions on building Wozniak QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Wozniak.
+
+See doc/build-*.txt for instructions on building Wozniakd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Wozniak.
